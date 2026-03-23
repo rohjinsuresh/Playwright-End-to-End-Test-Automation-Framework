@@ -1,4 +1,4 @@
-# 🚀 Playwright UI + API Automation Framework
+# 🚀 Playwright End-to-End Automation Framework(UI + API)
 
 <p align="center">
   <b>A hands-on QA automation project I built to strengthen my Playwright skills</b>
